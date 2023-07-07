@@ -7,8 +7,8 @@
 
 ## Links
 
-Githup repo:
-Live site url: 
+Githup repo: https://github.com/ritaogada/qr-code-component-main
+Live site url: https://ritaogada.github.io/qr-code-component-main/
 
 ## Built with
  HTML
